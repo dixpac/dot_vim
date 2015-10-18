@@ -1,4 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/yoodaa/Dropbox/industry_park/smash_vim/1-smash-into-vim-m01/tutorial-apache-files'
-let g:netrw_dirhist_2='/Users/yoodaa/Dropbox/industry_park/smash_vim/1-smash-into-vim-m01/dotvim-full'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/yoodaa/Dropbox/industry_park/ror/remote/app'
+let g:netrw_dirhist_2='/Users/yoodaa/Dropbox/industry_park/ror/remote/app/views'
+let g:netrw_dirhist_3='/Users/yoodaa/Dropbox/industry_park/ror/remote/app/views/jobs'
+let g:netrw_dirhist_4='/Users/yoodaa/Dropbox/industry_park/ror/remote/app/views'
+let g:netrw_dirhist_5='/Users/yoodaa/Dropbox/industry_park/ror/remote/app/views/jobs'
+let g:netrw_dirhist_6='/Users/yoodaa/Dropbox/industry_park/ror/remote'
+let g:netrw_dirhist_7='/Users/yoodaa/Dropbox/industry_park/ror/remote/app/views/jobs'
